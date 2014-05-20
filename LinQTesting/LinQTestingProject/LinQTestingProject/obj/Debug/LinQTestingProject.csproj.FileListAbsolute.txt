@@ -1,0 +1,6 @@
+E:\programming\c#\LinQTesting\LinQTestingProject\LinQTestingProject\bin\Debug\LinQTestingProject.exe.config
+E:\programming\c#\LinQTesting\LinQTestingProject\LinQTestingProject\obj\Debug\LinQTestingProject.csprojResolveAssemblyReference.cache
+E:\programming\c#\LinQTesting\LinQTestingProject\LinQTestingProject\bin\Debug\LinQTestingProject.exe
+E:\programming\c#\LinQTesting\LinQTestingProject\LinQTestingProject\bin\Debug\LinQTestingProject.pdb
+E:\programming\c#\LinQTesting\LinQTestingProject\LinQTestingProject\obj\Debug\LinQTestingProject.exe
+E:\programming\c#\LinQTesting\LinQTestingProject\LinQTestingProject\obj\Debug\LinQTestingProject.pdb
